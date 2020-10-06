@@ -83,6 +83,7 @@ def main_game():
             print(f"the author of this quote was {c_auth}")
         attempt += 1
 
+
 # let the user play new games until he doesn't wanna anymore.
 if __name__ == "__main__":
     url = "http://quotes.toscrape.com"
